@@ -9,5 +9,5 @@ Anyone who wants to contribute to this repo, follow the step:
 
 Very Simple!!!
 
-- You have to upload image/video/GIF of your work in Art folder and edit the README file with the photo, link of DartPad or CodePen and your 
+- You have to upload image/video/GIF of your work in our folder and edit the README file with the photo, link of DartPad or CodePen and your 
   GitHub profile link and date also.
